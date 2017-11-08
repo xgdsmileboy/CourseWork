@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 8 [1.8.0_65]">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/Library/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/concurrentlinkedhashmap-lru-1.4.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/jline-2.12.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/lucene-analyzers-common-5.3.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/lucene-core-5.3.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/lucene-queryparser-5.3.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-bolt-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-codegen-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-consistency-check-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-consistency-check-legacy-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-csv-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-cypher-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-cypher-compiler-2.3-2.3.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-cypher-compiler-3.0-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-cypher-frontend-2.3-2.3.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-cypher-frontend-3.0-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-function-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-graph-algo-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-graph-matching-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-import-tool-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-io-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-jmx-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-kernel-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-logging-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-lucene-index-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-lucene-upgrade-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-primitive-collections-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-shell-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-udc-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-unsafe-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/parboiled-core-1.1.7.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/parboiled-scala_2.11-1.1.7.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/scala-library-2.11.7.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/scala-reflect-2.11.7.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/server-api-3.0.0-M02.jar"/>
+	<classpathentry kind="lib" path="WebContent/Library/neo4j-primitive-collections-2.1.6.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
