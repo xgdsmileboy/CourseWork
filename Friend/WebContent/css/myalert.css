@@ -1,0 +1,67 @@
+
+.myalert {
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+.myalert h4 {
+  margin-top: 0;
+  color: inherit;
+}
+
+.myalert .myalert-link {
+  font-weight: bold;
+}
+
+.myalert > p,
+.myalert > ul {
+  margin-bottom: 0;
+}
+
+.myalert > p + p {
+  margin-top: 5px;
+}
+
+.myalert-dismissable {
+  padding-right: 35px;
+}
+
+.myalert-dismissable .close {
+  position: relative;
+  top: -2px;
+  right: -21px;
+  color: inherit;
+}
+
+
+
+.myalert-info {
+  color: #3a87ad;
+  background-color: #d9edf7;
+  border-color: #bce8f1;
+}
+
+.myalert-info hr {
+  border-top-color: #a6e1ec;
+}
+
+.myalert-info .myalert-link {
+  color: #2d6987;
+}
+
+
+.myalert-danger {
+  color: white;
+  background-color: #f2dede;
+  border-color: #eed3d7;
+}
+
+.myalert-danger hr {
+  border-top-color: #e6c1c7;
+}
+
+.myalert-danger .myalert-link {
+  color: #953b39;
+}
